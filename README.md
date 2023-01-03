@@ -12,3 +12,7 @@
   <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/pin/?username=SamirPaul1&repo=LeetCode&theme=buefy" />
 </a>
 
+
+<p align=center>                           
+  <a href="https://github.com/SamirPaul1"><img align=center  src="https://komarev.com/ghpvc/?username=SamirPaul1" alt="Visitors"></a>     
+</p>
